@@ -1,0 +1,122 @@
+[2026-06-15 03:01:18] No valid Gemini API key found in api.php
+[2026-06-15 03:01:26] No valid Gemini API key found in api.php
+[2026-06-15 03:08:47] HTTP 404 using key #1: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-06-15 03:08:47] All API keys failed. Last error: HTTP 404 using key #1: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-06-15 03:09:02] HTTP 404 using key #1: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-06-15 03:09:02] All API keys failed. Last error: HTTP 404 using key #1: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-06-15 05:02:23] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:23] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:27] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:27] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:30] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:30] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:33] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:33] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:37] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:37] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:41] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:41] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:48] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:48] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:52] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:52] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:58] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:02:58] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:11] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:11] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:14] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:14] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:26] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:26] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:29] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:29] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:33] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:33] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:38] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:38] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:48] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:06:48] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:13:37] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:13:37] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:13:45] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:13:45] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:17:10] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:17:10] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:17:23] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:17:23] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:22:46] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:22:46] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:23:20] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:23:20] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:23:30] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:23:30] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:20] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:20] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:33] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:33] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:36] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:36] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:39] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:39] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:43] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:24:43] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:07] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:07] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:10] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:10] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:12] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:12] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:16] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:16] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:18] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:18] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:21] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:21] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:28] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:28] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:31] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:28:31] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:52] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:52] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:54] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:54] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:56] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:56] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:57] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:57] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:59] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:29:59] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:01] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:01] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:03] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:03] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:05] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:05] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:07] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:07] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:09] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:09] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:18] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:18] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:32] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:32] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:36] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:36] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:39] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:30:39] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:50:39] HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:50:39] All API keys failed. Last error: HTTP 400 using key #1: API key not valid. Please pass a valid API key.
+[2026-06-15 05:52:02] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 05:52:02] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 05:53:30] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 05:53:30] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 05:53:30] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 05:53:30] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 07:26:36] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 07:26:36] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 11:19:17] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 11:19:17] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 11:19:24] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 11:19:24] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 11:19:30] HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[2026-06-15 11:19:30] All API keys failed. Last error: HTTP 503 using key #1: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
